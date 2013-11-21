@@ -1,0 +1,9 @@
+mscorlib.dll
+System.dll
+System.Core.dll
+System.Xml.dll
+MonoTouch.Dialog-1.dll
+System.Json.dll
+KloutAPI.dll
+Newtonsoft.Json.MonoTouch.dll
+System.Runtime.Serialization.dll
